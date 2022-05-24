@@ -1,0 +1,8 @@
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\trycatchPRACTICA\trycatchPRACTICA\bin\Debug\trycatchPRACTICA.exe.config
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\trycatchPRACTICA\trycatchPRACTICA\bin\Debug\trycatchPRACTICA.exe
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\trycatchPRACTICA\trycatchPRACTICA\bin\Debug\trycatchPRACTICA.pdb
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\trycatchPRACTICA\trycatchPRACTICA\obj\Debug\trycatchPRACTICA.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\trycatchPRACTICA\trycatchPRACTICA\obj\Debug\trycatchPRACTICA.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\trycatchPRACTICA\trycatchPRACTICA\obj\Debug\trycatchPRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\trycatchPRACTICA\trycatchPRACTICA\obj\Debug\trycatchPRACTICA.exe
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\trycatchPRACTICA\trycatchPRACTICA\obj\Debug\trycatchPRACTICA.pdb
